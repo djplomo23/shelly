@@ -116,8 +116,8 @@ footer>a{
     h1{
         padding: 50px 0 50px;
     }
-    img{
-        padding-top: 50px;
+    .img{
+    padding-top:50px;
     }  
     footer{
         margin-top: 75px;
@@ -136,8 +136,8 @@ footer>a{
         height: 50px;
         
     }
-    img{
-        padding-top: 50px;
+    .img{
+    padding-top:50px;
     }
     footer{
         margin-top: 75px;
